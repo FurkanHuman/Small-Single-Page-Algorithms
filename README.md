@@ -9,7 +9,7 @@ It's going to be writing maths that puzzles me, or code that I say I'll use late
 
 ## List and Description.
 
-- exponential factorial calculation:
+- [exponential factorial calculation](https://github.com/FurkanHuman/Small-Single-Page-Algorithms/blob/master/Python/exponential-numbered-factor-calc.py "exponential factorial calculation")::
 you can calculate the numbers with the base of this code.
 
 **If you want to add to these codes or think you can make them better, please comment.**
