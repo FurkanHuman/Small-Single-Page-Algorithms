@@ -1,17 +1,14 @@
-from ast import arg
-import sys
-
 ct=0
-## argList=sys.argv
 
-inputNumber=int(input("Enter Number here: "))
+inputNumber=float(input("Enter Number here: "))
 
-print(ct,"=",int(inputNumber))
-
+print(ct,"=",inputNumber)
 
 while(True):
+    
     ct=ct+1
-    if(inputNumber==1):
+
+    if(inputNumber==1 or inputNumber==-1):
         break
 
     if(inputNumber%2==0):
@@ -20,5 +17,5 @@ while(True):
     else:
         inputNumber=(inputNumber*3)+1
 
-    print(ct,"=",int(inputNumber))
+    print(ct,"=",inputNumber)
 exit()
