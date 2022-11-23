@@ -16,4 +16,11 @@ you can calculate the numbers with the base of this code.
 with this code you can make collatz conjecture calculations. calculate negative numbers and fractional numbers.
 *(Fractions of numbers may be errors in the float number digit limit.)* 
 
+- [combination sum](https://github.com/FurkanHuman/Small-Single-Page-Algorithms/blob/master/C%20Sharp/CombinationSum.cs "combination sum"):
+calculates the combinations of the largest given number in the array in this project.
+
+
 **If you want to add to these codes or think you can make them better, please comment.**
+
+<!-- First write date: Unknown -->
+<!-- Update date: 03:21 23.11.2022 -->
